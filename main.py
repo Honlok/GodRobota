@@ -3,6 +3,7 @@ import sys
 import json
 import os
 
+# Инициализация Pygame
 pygame.init()
 
 # Файл для сохранения
